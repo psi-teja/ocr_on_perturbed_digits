@@ -2,6 +2,8 @@
 
 This Python script evaluates the accuracy of an Optical Character Recognition (OCR) model on perturbed digit images and generates a bar plot to visualize the accuracy for each digit.
 
+<img src="3.png" width="30%" align="right" title="Handwritten Digit 3" style="border-radius: 10px;">
+
 ## Prerequisites
 All the packages can be found in requirements.txt file
 Before running the script, make sure you have all the dependencies
